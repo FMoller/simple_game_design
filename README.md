@@ -1,2 +1,4 @@
-# simple_game_design
-An repo for my online GD course
+# Simple Game Design
+This is a repository to the worst free game design course you can get on internet.
+
+## Repository Structure:
